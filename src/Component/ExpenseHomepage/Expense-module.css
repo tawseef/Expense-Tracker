@@ -1,0 +1,27 @@
+.heading{
+    padding: 5px 0px 0px 20px;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+}
+
+.firstRow{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(196, 190, 190);
+    border: 2px solid black;
+    border-radius: 12px;
+    margin: 0px 20px 0px 20px;
+}
+
+.secondRow{
+    display: flex;
+    justify-content: space-around;
+}
+.chart{
+    background-color: white;
+    border-radius: 15px;
+    /* height: 310px; */
+    width:800px;
+}

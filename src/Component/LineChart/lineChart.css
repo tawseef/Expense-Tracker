@@ -1,0 +1,11 @@
+.line-bar-chart {
+    font-family: "Arial", sans-serif;
+    background-color: #fff;
+    width: 1000px;
+    margin-top: -50px;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    overflow: hidden; /* Ensure the shadows of the bars don't spill out */
+  }
